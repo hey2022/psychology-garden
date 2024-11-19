@@ -11,7 +11,6 @@ The outer layers of the brain handles more complex thinking, while the inner the
 :PROPERTIES:
 :ID:       abe56ac7-81a3-41db-b792-1a98734b0c24
 :END:
-[[attachment:_20241020_230204screenshot.png]]
 ** Cerebral Cortex
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
