@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       9bdd14a6-6fb0-4891-b12d-7b7e5395e378
+:ANKI_DECK: Main
+:END:
+#+title: Research Methods
+#+filetags: :Psychology:Statistics:
+
+- [[id:cb73b030-2a16-4897-adc4-de0eeb4b054c][Experiments]]
+- Correlational Studies
+- Naturalistic Observations
+- Case Studies
+- Meta Analysis
+* Observational Study
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:END:
+Observes individuals and measures variables of interest but does not attempt to influence the responses.

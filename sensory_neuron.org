@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       73ce06d8-eb79-4fc3-9d04-32deb178aef4
+:END:
+#+title: Sensory Neuron
+#+filetags: :Psychology:
+
+Sensory [[id:a2f67695-4209-473f-9d1d-9b80daae3d51][neurons]] take sensory information from the environment and sends signals to the [[id:28d5a480-b569-49d4-bed3-76ddfc30155b][brain]].

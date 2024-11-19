@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       81e0078a-7e8a-4984-9d12-347415443e27
+:ANKI_DECK: Main
+:END:
+#+title: Vestibular Sense
+#+filetags: :Psychology:
+
+* Vestibular Sense
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731953972055
+:END:
+This [[id:068d94e5-f02d-4ba0-8f62-ef19a44bbf8c][sense]] allows us to detect the movement of our head and helps us keep our balance. It is essential for everyday actions, such as walking, standing upright, and maintaining coordination.
+
+* Semicircular Canals
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731953972154
+:ID:       c5836774-ec43-49bc-b3d7-9cd2f4880400
+:END:
+Three fluid-filled tubes located in the [[id:7650674e-fdb2-4fb4-8e17-d63a29ae7e7e][inner ear]]. Each canal is oriented in a different plane (horizontal, vertical, and diagonal) to detect different types of head movements (like tilting, spinning, or turning).
+
+* Vertigo
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       b534beb4-c6a0-446d-8722-5bab4e5097a0
+:ANKI_NOTE_ID: 1731954088330
+:END:
+A common issue related to the [[id:81e0078a-7e8a-4984-9d12-347415443e27][vestibular system]], occurs when the brain receives conflicting signals from the vestibular system and other senses, leading to a spinning sensation.

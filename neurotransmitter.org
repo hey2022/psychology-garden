@@ -1,0 +1,99 @@
+:PROPERTIES:
+:ID:       d93a2efb-7268-421c-843d-99dd45051921
+:ANKI_DECK: Main
+:END:
+#+title: Neurotransmitter
+#+filetags: :Psychology:
+
+
+* Types
+** Excitatory Neurotransmitters
+*** Substance P
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1728488485578
+:ID:       16535ea0-0c83-40b8-98af-38a98f1572c9
+:END:
+Neurotransmitter involved in transmitting pain signals to the brain.
+**** Oversupply
+Chronic pain
+**** Under supply
+Reduced sensitivity to pain
+*** Acetylcholine (ACh)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1728488485643
+:ID:       a6e7af43-5007-4fcd-b784-1d1279cda9e9
+:END:
+Enables muscle actions, learning and memory.
+**** Oversupply
+Muscle cramps or spasms
+**** Under supply
+Alzheimer’s disease
+*** Glutamate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1728488485742
+:ID:       b58f9170-11fb-4a3b-ba0f-de15105dbc0c
+:END:
+Major excitatory neurotransmitter, linked to learning and memory.
+**** Oversupply
+Overstimulates the brain, producing migraines or seizures
+**** Under supply
+Cognitive impairment
+*** Dopamine
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1728488485792
+:ID:       8afe948f-28f7-4828-9b12-1c9efb892c18
+:END:
+Involved in reward and motivation.
+**** Oversupply
+Schizophrenia
+**** Under supply
+Tremors and decreased mobility in Parkinson’s disease.
+*** Norepinephrine
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1728488485842
+:ID:       160479db-3ff1-4873-a2e4-644d57074a6e
+:END:
+Arouses alertness and energy.
+**** Oversupply
+Anxiety or panic attacks
+**** Under supply
+Depress mood
+** Inhibitory Neurotransmitters
+*** GABA (Gamma-Aminobutyric Acid)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1728488486067
+:ID:       e2244a70-dfab-4b55-9071-d07f1e7b0f86
+:END:
+Major inhibitory neurotransmitter that calms the nervous system.
+**** Oversupply
+Excessive sedation or drowsiness
+**** Under supply
+seizures, tremors, and insomnia
+*** Serotonin
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1728488486117
+:ID:       cb1a943c-d476-4c67-b1bc-41a67683d8c8
+:END:
+Regulates mood and sleep.
+**** Oversupply
+Serotonin syndrome
+**** Under supply
+Depression
+*** Endorphins
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1728488486168
+:ID:       4cae89a9-3344-4768-b815-76db226de9bf
+:END:
+Natural painkillers and immune response.
+**** Oversupply
+Opioid drugs can suppress the body’s natural endorphin supply
+**** Under supply
+Increased pain sensitivity

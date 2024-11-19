@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       213b32f1-ceb4-4c96-8353-0e32d355911a
+:ANKI_DECK: Main
+:END:
+#+title: Bias
+#+filetags: :Psychology:Statistics:
+
+* Bias
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730200501868
+:END:
+The likelihood to overestimate or underestimate the result in a study.
+
+* Types of Bias
+** Hindsight Bias
+:PROPERTIES:
+:ID:       9b6f02fb-cbef-4928-b5f9-5852a6325c40
+:END:
+Hindsight bias is the tendency to overestimate the extent an event could have been foreseen after it has occurred.
+** Cognitive Bias
+:PROPERTIES:
+:ID:       e94c5c95-edee-4f00-be6c-91a1b0816f81
+:END:
+Cognitive bias is a systematic error in thinking.
+** Confirmation Bias
+:PROPERTIES:
+:ID:       d2aef7fe-de01-4e50-b95a-ee2ac9477031
+:END:
+Confirmation bias is the tendency to gather evidence to confirm preexisting expectations while discarding contradictory evidence.
+** Overconfidence Bias
+:PROPERTIES:
+:ID:       59424c5b-7ca4-4f63-89e9-9ef2e8f10767
+:END:
+Overconfidence bias is an overestimation of one's ability.
+** Undercoverage
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730214975757
+:ID:       68fac68e-5ddd-4eb1-a31b-d1b752cce831
+:END:
+Occurs when some members of the population are less likely to be chosen or cannot be chosen in a sample.
+** Nonresponse
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       c3960091-500c-4f60-8342-5d3a05baf429
+:ANKI_NOTE_ID: 1730215517632
+:END:
+Occurs when an individual chosen for the sample can’t be contacted or refuses to participate.
+** Response Bias
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       977bcb92-e377-45b1-b75e-3d53df24df40
+:ANKI_NOTE_ID: 1730215517708
+:END:
+Occurs when there is a systematic pattern of inaccurate answers to a survey question.
+* Replication
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730216284336
+:END:
+Using enough experimental units to distinguish a difference in the effects of the treatments from chance variation due to the random assignment.

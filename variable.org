@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       251ecc75-21cf-464d-9c80-b02c57f54a9f
+:ANKI_DECK: Main
+:END:
+#+title: Variable
+#+filetags: :Psychology:Statistics:
+
+A variable is an attribute that can take different values for different [[id:70afecab-ca45-4f92-abdb-d2e1b51dd447][individuals]].
+
+* Independent Variable
+:PROPERTIES:
+:ID:       2f3c52c7-be1f-4de3-a3c8-e84ce7f27efb
+:ROAM_ALIASES: "Explanatory Variable"
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_ID: 1730215512558
+:END:
+** Text
+The {{c1::independent variable}}/{{c1::explanatory variable}} is controlled by the experimenter.
+
+* Dependent Variable
+:PROPERTIES:
+:ID:       19cca746-7dc8-4dcb-af9a-be021e8a695b
+:ANKI_NOTE_TYPE: Cloze
+:ROAM_ALIASES: "Response Variable"
+:ANKI_NOTE_ID: 1730215512657
+:END:
+** Text
+The {{c1::dependent variable}}/{{c1::response variable}} is the variable that is measured.
+
+* Control Variable
+:PROPERTIES:
+:ID:       a79663be-24f9-45ce-8c4d-323d368d5b36
+:END:
+Control variable are variables that do not change.
+
+* Confounding
+:PROPERTIES:
+:ID:       81cd2325-ef3c-4306-b0cd-32972a8907bc
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730215496382
+:END:
+Occurs when two variables are associated in such a way that their effects on a response variable cannot be distinguished from each other.

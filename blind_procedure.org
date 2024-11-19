@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b66236ee-9c88-4b72-b660-12fd2921cfd5
+:ANKI_DECK: Main
+:END:
+#+title: Blind Procedure
+#+filetags: :Statistics:Psychology:
+
+* Blind Procedure
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730216148335
+:END:
+Either the subjects don’t know which treatment they are receiving or the people who interact with them and measure the response variable don’t know which subjects are receiving which treatment
+* Double Blind Procedure
+:PROPERTIES:
+:ID:       b88d3d9c-0a9b-49cf-a84f-2a3f69f268a1
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730216148486
+:END:
+Neither the subjects nor those who interact with them and measure the response variable know which treatment a subject received.

@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       444b1af1-d842-4103-a134-33e2e42b829d
+:ANKI_DECK: Main
+:END:
+#+title: Touch
+#+filetags: :Psychology:
+
+* Mechanoreceptors
+:PROPERTIES:
+:ID:       49559e5f-6ec4-4244-b2b9-5e4e4ee2bebd
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731954232506
+:END:
+Detect pressure and texture (e.g., when touching a smooth surface).
+* Thermoreceptors
+:PROPERTIES:
+:ID:       3edb7a50-b736-42d8-a828-f7d34b03b903
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731954232605
+:END:
+Detect changes in temperature.
+* Nociceptors
+:PROPERTIES:
+:ID:       2cfb52cd-eea9-44c8-868e-1add7496bda0
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731954232679
+:END:
+Detect pain (damage to tissues).
+* Gate Control Theory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731954458432
+:ID:       6ca33bc8-170d-4433-986d-45969c4cfc2b
+:END:
+Suggests that the spinal cord contains a neurological "gate" that either blocks or allows pain signals to pass to the brain.
+Small nerve fibers carry pain signals, while large nerve fibers carry other touch signals (like pressure).
+When large fibers are activated (e.g., rubbing a sore area), the "gate" closes, blocking some pain signals from reaching the brain, thus reducing the perception of pain.
+
+* Phantom Limb Sensation
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731958893459
+:ID:       cefe49b6-e8de-40ab-8af4-ea2d35c80c75
+:END:
+Refers to the experience of feeling sensations, including pain, in a limb that has been amputated.

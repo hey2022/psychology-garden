@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       dd634b0a-c6ef-44c0-8c4b-8adc99d8e31e
+:ANKI_DECK: Main
+:END:
+#+title: Dream
+#+filetags: :Psychology:
+
+* Dream Theories
+:PROPERTIES:
+:ID:       6584e57c-ad67-4e1f-b6ec-f4b538701c76
+:END:
+** Activation Synthesis Theory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730950735798
+:END:
+Dreams are the brain’s way of making sense of random neural activity.
+** Consolidation Theory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730950735945
+:END:
+Dreams help process and solidify memories and experiences from the day.

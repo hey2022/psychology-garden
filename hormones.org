@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       1f117033-24c7-4d62-b84a-098ee32ea288
+:ANKI_DECK: Main
+:END:
+#+title: Hormones
+#+filetags: :Psychology:
+
+* Hormones
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729414270547
+:END:
+Chemical messengers that travel through the bloodstream and affect behavior and mood.
+
+* Types of Hormones
+** Adrenaline
+:PROPERTIES:
+:ID:       d33b2406-2ca6-4605-bc4b-11a921d06c97
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729414270601
+:END:
+A hormone that increases heart rate and energy (fight-or-flight).
+** Oxytocin
+:PROPERTIES:
+:ID:       4f37adc1-da20-49e2-9e31-44de5f49eee3
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729414270651
+:END:
+A hormone that influences bonding and social behaviors.
+** Leptin
+:PROPERTIES:
+:ID:       01ac6cb2-dd20-4d7d-bf69-f94fee98a72b
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729414270704
+:END:
+A hormone that regulates hunger and fat storage.
+** Melatonin
+:PROPERTIES:
+:ID:       316b83ef-24f5-4785-b923-c1dab4f28c5b
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729414270751
+:END:
+A hormone that regulates sleep-wake cycles.
+** Ghrelin
+:PROPERTIES:
+:ID:       9a2b94ed-2c08-4f1d-8c60-04348d01f50d
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729414270803
+:END:
+A hormone that stimulates hunger.

@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       047f2b6b-efbc-49a5-9142-a899885b9332
+:ANKI_DECK: Main
+:END:
+#+title: Consciousness
+#+filetags: :Psychology:
+
+* Consciousness
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730348563876
+:END:
+The awareness of our environment and ourselves.
+* Altered States of Consciousness
+:PROPERTIES:
+:ID:       ba2de502-c4e1-490b-a225-6e4edbd850da
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730352914127
+:END:
+Any conditions that differ significantly from a normal waking state, affecting awareness and perception.
+- Stages of [[id:52b8246b-1b3e-4c14-9956-6b4ca3d097d9][sleep]]/dreaming
+- Hypnosis
+- Meditation and prayer
+- Psychoactive drugs
+- Daydreaming
+- Stages of unconsciousness (e.g. coma)

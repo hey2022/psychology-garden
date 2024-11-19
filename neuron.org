@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       a2f67695-4209-473f-9d1d-9b80daae3d51
+:END:
+#+title: Neuron
+#+filetags: :Biology:Psychology:
+
+Neurons are communication lines of the brain. It transmits signals that control everything from movement to complex thought.
+Every time you think, move, or feel something, neurons are at work.
+
+* Function
+Carry out brain signals.
+* Action
+Sends messages from the brain to the body and back
+
+
+* Types of Anatomy :ATTACH:
+#+ATTR_ORG: :width 500
+[[attachment:_20240925_105209screenshot.png]]
+** Cell Body
+The neuron's control center
+** Dendrites
+ Responsible for listening for signals.
+** Axon
+The axon transmits the electrical signals
+** Myelin Sheath
+A fatty layer around the axon responsible for speeding up electrical signal
+** Axon Terminal

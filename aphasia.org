@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ANKI_DECK: Main
+:ID:       d26a39d8-41f7-449c-88ac-7509350bf1de
+:END:
+#+title: Aphasia
+#+filetags: :Psychology:
+
+* Aphasia
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729599277717
+:END:
+A language disorder that affects how you communicate.

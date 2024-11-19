@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d74cdb91-69d8-4fb0-acff-966da8db3df1
+:ANKI_DECK: Main
+:END:
+#+title: Randomization
+#+filetags: :Psychology:Statistics:
+
+* Random Selection
+:PROPERTIES:
+:ID:       8128b36f-9c34-4888-ab42-648bc5df546c
+:END:
+Random selection is the random selection of the [[id:0b642449-c843-4aa0-82f7-0ac80f882428][sample]].
+
+* Random Assignment
+:PROPERTIES:
+:ID:       02f2f79c-53da-4365-a048-ed460d3720bf
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730216244312
+:END:
+Means that experimental units are assigned to treatments using a chance process.

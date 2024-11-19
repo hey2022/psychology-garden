@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       311d357b-70c3-4867-b03c-bf60944acf7e
+:ANKI_DECK: Main
+:END:
+#+title: Smell
+#+filetags: :Psychology:
+
+* Olfactory System
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731990436376
+:END:
+Responsible for our sense of smell. It works by detecting chemical molecules in the air and converting them into neural signals—a process called [[id:385b5840-dda2-4e88-b4c4-c32883eb57d0][transduction]].

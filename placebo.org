@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0860d49d-bd3f-4384-a761-2a7908d1b971
+:ANKI_DECK: Main
+:END:
+#+title: Placebo
+#+filetags: :Psychology:Statistics:
+
+
+* Placebo
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730215994908
+:END:
+A treatment that are inert and have no active agents.
+* Placebo Effect
+:PROPERTIES:
+:ID:       12afc00a-6291-4b74-9596-44e0833cbe25
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730215995008
+:END:
+Describes the fact that some subjects in an experiment will respond favourably to any treatment, even ones that do nothing.

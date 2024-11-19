@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       338c81a4-7ebf-47c8-9f38-3438fac634b5
+:END:
+#+title: Stimuli
+#+filetags: :Psychology:
+
+Stimuli are environmental factors that triggers a physical or behavioural change.

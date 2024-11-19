@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       deaf5424-0245-49ff-a0e6-70ce1c6f96a4
+:ROAM_ALIASES: EEG
+:ANKI_DECK: Main
+:END:
+#+title: Electroencephalogram
+#+filetags: :Psychology:
+
+* Electroencephalogram (EEG)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729466871765
+:END:
+Measure electrical activity in the [[id:28d5a480-b569-49d4-bed3-76ddfc30155b][brain]], helping scientists study brainwaves.

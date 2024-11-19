@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       385b5840-dda2-4e88-b4c4-c32883eb57d0
+:ANKI_DECK: Main
+:END:
+#+title: Transduction
+#+filetags: :Psychology:
+
+* Transduction
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731639076224
+:END:
+The process of transforming physical stimulation into neural stimulation.

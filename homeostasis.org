@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       d54523bc-24f5-4951-b562-42220f01316b
+:ANKI_DECK: Main
+:END:
+#+title: Homeostasis
+#+filetags: :Psychology:Biology:
+
+* Homeostasis
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729600004268
+:END:
+The state of the internal body being in balance.

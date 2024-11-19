@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       6b07a971-b928-468d-ab7d-56dc8af53da3
+:ROAM_ALIASES: fMRI
+:ANKI_DECK: Main
+:END:
+#+title: Functional Magnetic Resonance Imaging
+#+filetags: :Psychology:
+
+* Functional Magnetic Resonance Imaging (fMRI)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729466939692
+:END:
+Tracks blood flow in the [[id:28d5a480-b569-49d4-bed3-76ddfc30155b][brain]], showing which areas are active during specific tasks.

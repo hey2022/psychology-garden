@@ -1,0 +1,90 @@
+:PROPERTIES:
+:ID:       77148cfe-9bdc-43e7-a327-81137cfe6a73
+:ROAM_ALIASES: Taste
+:ANKI_DECK: Main
+:END:
+#+title: Gustation
+#+filetags: :Psychology:
+
+* Taste Buds
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       f1c5f2af-b401-4dbf-9233-eb5fd367b04f
+:ANKI_NOTE_ID: 1731640188672
+:END:
+Specialized structures located on the tongue that contain [[id:505d7b22-dcda-46df-9c17-5dd4954afd1f][taste receptors]].
+* Taste Receptors
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       505d7b22-dcda-46df-9c17-5dd4954afd1f
+:ANKI_NOTE_ID: 1731640188823
+:END:
+Located within taste buds, these detect chemicals dissolved in saliva and send signals to the brain via the gustatory pathway.
+* Types of Taste
+** Sweet
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731640188973
+:ID:       e4ba1bb4-9fd8-40fb-a343-956b5f1d148d
+:END:
+Sugar, which signals energy-rich foods.
+** Sour
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731640189147
+:ID:       8a8cc297-e0f0-4167-8996-b4aab830bcb0
+:END:
+Acidic foods, which may indicate spoilage.
+** Salty
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731640189293
+:ID:       2be2b2b7-ad59-4838-82c0-c310b3a61448
+:END:
+Sodium, essential for body functions.
+** Bitter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731640189447
+:ID:       5dd99cc5-9d05-49ae-bf32-9fe4c443de40
+:END:
+Can signal toxins, leading to aversion.
+** Umami
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731640189746
+:ID:       ab1e1b86-d745-4738-96c2-5d8f79ea3e0e
+:END:
+A savory taste, often linked to proteins.
+** Oleogustus
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731640189897
+:ID:       238dbba6-5905-4844-8b5a-b38f363205fa
+:END:
+A newer term for the taste of fat, which plays a role in food preferences.
+
+* Types of Tasters
+** Supertasters
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731640189994
+:ID:       8feb9b52-cfd4-4cd9-8fc0-10145e2c5a87
+:END:
+People with more taste buds than average, making them highly sensitive to certain flavors, especially bitter ones. 15K-20K [[id:f1c5f2af-b401-4dbf-9233-eb5fd367b04f][Taste Buds]].
+** Medium Tasters
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731640190068
+:ID:       38d48e85-0328-4076-b0c8-37a7f9e23005
+:END:
+Most people fall into this category, having a moderate number of [[id:f1c5f2af-b401-4dbf-9233-eb5fd367b04f][taste buds]].
+9K-15K Taste Buds.
+** Nontasters
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731640190223
+:ID:       111c8dae-69c9-49d1-aafd-b5f095abadfa
+:END:
+People with fewer [[id:f1c5f2af-b401-4dbf-9233-eb5fd367b04f][taste buds]], meaning they have a reduced sensitivity to tastes, especially bitterness.
+<8K Taste Buds.

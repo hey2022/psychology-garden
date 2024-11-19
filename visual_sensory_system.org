@@ -1,0 +1,131 @@
+:PROPERTIES:
+:ID:       59639431-2ea7-4a22-85e1-04fe9041a89c
+:ANKI_DECK: Main
+:END:
+#+title: Visual Sensory System
+#+filetags: :Psychology:
+
+* Visual Transduction
+:PROPERTIES:
+:ID:       117f4b19-922b-453e-a9cf-982bd71c6506
+:END:
+The process where the retina converts light into neural signals through photoreceptors.
+* Light Path
+:PROPERTIES:
+:ID:       279ddf1c-8079-407f-8e4b-797fbf3376e7
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_ID: 1731292755980
+:END:
+** Text
+{{c1::Cornea}} -> {{c2::Pupil}} -> {{c3::Lens}} -> {{c4::Retina}} -> {{c5::Optical Nerve}} -> {{c6::Thalamus}} -> {{c7::Occipital Lobe}}
+* Cornea
+:PROPERTIES:
+:ID:       badf9a28-1d5f-4523-adcd-13fd75803012
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731295281158
+:END:
+The clear, outer layer at the front of the eye. It helps focus light coming into the eye.
+* Pupil
+:PROPERTIES:
+:ID:       ad680eac-a1e6-4cb6-be9d-a282702a663f
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731295281282
+:END:
+The black circle in the middle of your eye. It controls how much light enters the eye by getting bigger or smaller.
+* Iris
+:PROPERTIES:
+:ID:       b0f677f2-6ca8-4ded-a69e-bc586a7aee38
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731295281432
+:END:
+The coloured part of your eye (blue, brown, etc.) that surrounds the [[id:ad680eac-a1e6-4cb6-be9d-a282702a663f][pupil]]. It changes the size of the pupil to regulate light entry.
+* Lens
+:PROPERTIES:
+:ID:       c953d9aa-7bc1-4642-bc71-55d35d0b9179
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731295281582
+:END:
+A clear, flexible structure behind the [[id:ad680eac-a1e6-4cb6-be9d-a282702a663f][pupil]]. It bends (accommodates) to focus light onto the [[id:2f4dd6bb-7726-4a48-a5c7-dd1728fe0a38][retina]].
+* Retina
+:PROPERTIES:
+:ID:       2f4dd6bb-7726-4a48-a5c7-dd1728fe0a38
+:END:
+** Retina
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731295281707
+:END:
+The back of the eye where light is turned into signals. It contains special cells (rods and cones) that help us see.
+** Rods
+:PROPERTIES:
+:ID:       f4d22858-89cc-4d01-a8f0-b9248e35f913
+:END:
+Detect light and are used in low-light conditions.
+** Cones
+:PROPERTIES:
+:ID:       f06187f0-fe30-450a-9eb8-6dfc70626cbb
+:END:
+Detect colour and are concentrated in the fovea, the centre of the retina.
+* Fovea
+:PROPERTIES:
+:ID:       96b2c2d6-65b4-4d6b-8e17-37a8cfdb5093
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731295281881
+See ‘org-export-with-broken-links’
+:END:
+A small area in the centre of the [[id:1a866cde-3c49-4348-a394-50efee439517][retina]] where vision is the sharpest, used for detailed tasks like reading.
+* Optic Nerve
+:PROPERTIES:
+:ID:       2fa47399-11c2-41c7-b353-7f68c5759618
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731295282032
+:END:
+The nerve that sends visual information from the eye to the brain for processing.
+
+* Lens Accommodation
+** Myopic Vision
+:PROPERTIES:
+:ID:       7531ac9e-7b59-4479-a1ae-200da039cd03
+:END:
+Nearsighted
+** Hyperopic Vision
+:PROPERTIES:
+:ID:       b7d6d78d-eea8-4ef4-8e87-4c389154fea3
+:END:
+Farsighted
+* Colour Vision Theories
+:PROPERTIES:
+:ID:       1d954d28-4b04-46d0-9250-253a1b25111d
+:END:
+** Trichromatic Theory (Young-Helmholtz)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731954753383
+:ID:       9bf14803-ae56-457f-9e3e-106fa25bf9be
+:END:
+The retina contains three types of color receptors (red, green, blue), and their combination allows us to perceive the full color spectrum.
+** Opponent-Process Theory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731954753482
+:ID:       4b1dbd8d-9301-4931-bb70-693a298a69f4
+:END:
+Certain cells in the brain are stimulated by some colors and inhibited by others (e.g., red-green or blue-yellow), helping to explain afterimages.
+** Colour Vision Deficiencies
+:PROPERTIES:
+:ID:       01f5fdd1-1ce8-4029-ae5e-99d7b37fc148
+:END:
+*** Dichromatism
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731959131135
+:ID:       a2b92727-4f4e-480b-a1bb-7f8aa8b2e888
+:END:
+two types of cones
+*** Monochromatism
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731959131284
+:ID:       bb8e9a08-60c5-4107-bfca-8931b3bac493
+:END:
+only one type of cone or none

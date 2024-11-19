@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       00348780-9f15-498d-89bb-638ca2440998
+:ANKI_DECK: Main
+:END:
+#+title: Lesioning Studies
+#+filetags: :Psychology:
+
+* Lesioning Studies
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729466995967
+:END:
+Natural or experimentally damaged tissue of the [[id:28d5a480-b569-49d4-bed3-76ddfc30155b][brain]] used to study portions of the brain.
+- Sometimes in animals as well as humans

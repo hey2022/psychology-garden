@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ANKI_DECK: Main
+:ID:       26da0587-9cc4-4d3f-97ab-ed10c2cd30c9
+:END:
+#+title: Nervous System
+#+filetags: :Psychology:
+
+* Subsystems
+** Central Nervous System
+:PROPERTIES:
+:ID:       fc672969-2d20-489f-a0c7-bec9ac9ea90b
+:ROAM_ALIASES: CNS
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731983965640
+:END:
+It consists of the brain and spinal chord.
+
+It acts as the command center which is responsible for processing information and sending instruction throughout the body.
+
+Its is responsible for reflexes that are automatic responses to stimuli.
+** Peripheral Nervous System
+:PROPERTIES:
+:ID:       a58c9203-cb3f-4f0d-8454-61e4eea19220
+:ROAM_ALIASES: PNS
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731983965722
+:END:
+All the nerves outside the brain and spinal chord.
+*** Autonomic Nervous System
+:PROPERTIES:
+:ID:       7436aa01-5d7f-4acb-8aea-82be8e61a145
+:ROAM_ALIASES: ANS
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731983965796
+:END:
+It is for involuntary actions.
+It is responsible for regulating body function such as heartbeat, digestion, and breathing.
+**** Sympathetic Nervous System
+:PROPERTIES:
+:ID:       f8839f3f-aefb-4bf2-ad86-27a72447840b
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731983965872
+:END:
+Increases functions of the body such as
+- Increased Alertness
+- Dilated Pupils
+- Increased Breathing
+- Increased Heart Rate
+- Decreased Digestion
+- Increased Muscle Tone
+**** Parasympathetic Nervous System
+:PROPERTIES:
+:ID:       eb8daff8-1263-4250-942d-bc8d96e2c0e6
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731983965946
+:END:
+Decreases activity such as:
+- Decreased Alertness
+- Constricted Pupils
+- Slow & Deep Breathing
+- Decreased Heart Rate
+- Stimulated Digestion
+- Decreased Muscle Tone
+*** Somatic Nervous System
+:PROPERTIES:
+:ID:       8585cf7d-cbee-4e53-a02c-f31dedaf49d1
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731983966022
+:END:
+Controls voluntary movements of skeletal muscles.

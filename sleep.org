@@ -1,0 +1,86 @@
+:PROPERTIES:
+:ID:       52b8246b-1b3e-4c14-9956-6b4ca3d097d9
+:ANKI_DECK: Main
+:END:
+#+title: Sleep
+#+filetags: :Psychology:
+
+* Circadian Rhythm
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730348785414
+:END:
+A 24-hour biological clock that regulates sleep, wakefulness, and other bodily functions.
+* Rapid Eye Movement
+:PROPERTIES:
+:ID:       df23a80d-7eb0-46ee-a9b3-56f08023d61e
+:ROAM_ALIASES: REM
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730354802339
+:END:
+Paradoxical sleep where the brain is active but the body is paralyzed.
+* NREM Stage 1
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730354802515
+:END:
+Light sleep, marked by alpha waves and hypnagogic sensations (hallucinations or falling sensations).
+* NREM Stage 2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730354802669
+:END:
+Deeper relaxation, characterized by sleep spindles and EEG patterns showing more synchronized brain activity.
+* NREM Stage 3 & 4
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730354802819
+:END:
+Deep sleep, featuring slow delta waves. Hardest stage to wake from; crucial for physical restoration.
+* Sleep Disorders
+:PROPERTIES:
+:ID:       16244968-f3df-413e-adc9-0bf12bcb48e0
+:END:
+** Insomnia
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730430827812
+:ID:       e970f02b-f068-460e-b983-dae3d8d83951
+:END:
+Difficulty falling or staying asleep, leading to fatigue and impaired functioning during the day.
+** Narcolepsy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730430827963
+:ID:       02a6c22a-f870-48b6-be6f-637ae4e618f7
+:END:
+Sudden and uncontrollable "sleep attacks," often directly into REM sleep.
+** Hypnagogic Sensations and Hallucinations
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730430828112
+:ID:       6a5d7bb9-3fb6-47b0-93cc-8f492cb9ef46
+:END:
+Experiences just as the sensation of falling or hearing sounds right as you’re drifting to sleep
+** REM Sleep Behaviour Disorder
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730430828264
+:ID:       d5f9fff4-af3b-4af4-b5b4-c9318b2e4572
+:END:
+People act out their dreams due to lack of muscle paralysis during REM sleep.
+** Sleep Apnea
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730430828386
+:ID:       8d0d593d-e2cd-4bda-b6fb-dff3f1bc5ccd
+:END:
+Breathing repeatedly stops and starts, disrupting sleep and causing excessive daytime sleepiness.
+** Somnambulism
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730430828538
+:ID:       8653cb0d-f99c-48c0-beb9-4275ae6c722f
+:ROAM_ALIASES: "Sleep Walking"
+:END:
+Typically occurs during deep NREM sleep, where individuals walk or perform tasks while still asleep.

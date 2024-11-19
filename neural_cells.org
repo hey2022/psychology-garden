@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5a00c732-950f-40e2-b4e7-8f38eb11b73a
+:END:
+#+title: Neural Cells
+#+filetags: :Psychology:Biology:
+
+* Types
+- [[id:a2f67695-4209-473f-9d1d-9b80daae3d51][Neuron]]
+- [[id:2d662f43-3b8a-4ab4-af36-ee397d201217][Glial Cells]]

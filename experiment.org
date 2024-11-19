@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       cb73b030-2a16-4897-adc4-de0eeb4b054c
+:ANKI_DECK: Main
+:END:
+#+title: Experiment
+#+filetags: :Psychology:Statistics:
+
+* Experiment
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730215478608
+:END:
+Deliberately imposes some treatment on individuals to measure their responses.
+* Treatment
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730215727958
+:END:
+A specific condition applied to the individuals in an experiment
+* Experimental Unit
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730215728032
+:ID:       517f9ea3-32f8-4d41-a835-b524d2f2c08f
+:END:
+The object to which a treatment applied to
+* Subjects
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730215728107
+:ID:       c41a2c6a-86d3-43d8-8ace-bf87ca38a095
+:END:
+Experimental units that are human beings
+* Factor
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730215952358
+:END:
+A variable that is manipulated and may cause a change in the [[id:19cca746-7dc8-4dcb-af9a-be021e8a695b][response variable]]
+* The different values of a factor are {{c1::levels}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_ID: 1730215952433
+:END:
+* Control Group
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730215952533
+:ID:       47804a51-e0b5-454d-817e-a41075f1963a
+:END:
+Used to provide a baseline for comparing the effects of other treatments.
+* Completely Randomised Design
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730216338311
+:ID:       257a0a65-37ba-4912-90a2-36f024ba54d7
+:END:
+The experimental units are assigned to the treatments completely by chance.
+* Block
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730216417057
+:ID:       a70d0ff0-bfdc-4cbf-bed8-7ecf6b265971
+:END:
+A group of experimental units that are known before the experiment to be similar in some way that is expected to affect the response to the treatments.
+* Randomized Block Design
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730216417157
+:ID:       34e7df92-1b3c-4a11-ad98-78e54d9af414
+:END:
+The random assignment of experimental units to treatments is carried out separately within each block.
+* Matched Pairs Design
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ID:       4e7a4a00-cec4-4612-bb15-d22a8ae915b3
+:ANKI_NOTE_ID: 1730219500208
+:END:
+** Text
+ Is a common experimental design for comparing two treatments that uses blocks of size 2. In some {{c1::matched pairs designs}}, two very similar experimental units are paired and the two treatments are randomly assigned within each pair. In others, each experimental unit receives both treatments in a random order.
+
+* Statistically Significant
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1730216650708
+:ID:       4725fc8e-8d38-4da7-b65a-3e78f6f76ee5
+:END:
+When the observed results of a study are too unusual to be explained by chance alone.

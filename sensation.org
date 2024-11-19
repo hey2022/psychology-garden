@@ -1,0 +1,69 @@
+:PROPERTIES:
+:ID:       068d94e5-f02d-4ba0-8f62-ef19a44bbf8c
+:ANKI_DECK: Main
+:ROAM_ALIASES: JND
+:END:
+#+title: Sensation
+#+filetags: :Psychology:
+
+* Sensation
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731046279399
+:END:
+The process by which our [[id:73ce06d8-eb79-4fc3-9d04-32deb178aef4][sensory receptors]] and [[id:26da0587-9cc4-4d3f-97ab-ed10c2cd30c9][nervous system]] receive and represent [[id:338c81a4-7ebf-47c8-9f38-3438fac634b5][stimuli]] from our environment.
+* Absolute Threshold
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731044394179
+:ID:       4fdb35db-14e9-482d-ab28-2782f3ea8e47
+:END:
+The minimum intensity of a [[id:338c81a4-7ebf-47c8-9f38-3438fac634b5][stimulus]] that can be detected 50% of the time.
+* Just Noticeable Difference
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731045128653
+:ID:       fac18acd-5cc4-4aa8-8b62-5be5ba496888
+:END:
+The smallest detectable change in a [[id:338c81a4-7ebf-47c8-9f38-3438fac634b5][stimulus]].
+* Weber's Law
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731045128802
+:ID:       882c8b69-3aee-4050-87d4-c35e784a4161
+:END:
+The principle that the size of the [[id:068d94e5-f02d-4ba0-8f62-ef19a44bbf8c][JND]] is proportional to the intensity of the [[id:338c81a4-7ebf-47c8-9f38-3438fac634b5][stimulus]].
+* Sensory Adaptation
+:PROPERTIES:
+:ID:       21f33cdb-d619-475f-bdbc-e978443f56ed
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731045621959
+:END:
+When constant exposure to a [[id:338c81a4-7ebf-47c8-9f38-3438fac634b5][stimulus]] leads to decreased sensitivity over time.
+* Sensory Interaction
+:PROPERTIES:
+:ID:       9d8d8180-97f5-44e4-9c4f-a3feacc0f93a
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731045622102
+:END:
+The idea that one sense may influence another, like how smell can affect taste.
+* Synesthesia
+:PROPERTIES:
+:ID:       43651c1a-24ce-4b56-a008-91d897d7c007
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731045662402
+:END:
+A rare condition where stimulation of one sensory pathway leads to involuntary experiences in a second sensory pathway (e.g., seeing colours when hearing music).
+* Priming
+:PROPERTIES:
+:ID:       f34eb1b1-c079-4aff-8b60-af0e5ea23544
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731074860675
+:END:
+Exposure to one stimulus can influence how we perceive a subsequent stimulus.
+
+* Types of Sensation
+- [[id:59639431-2ea7-4a22-85e1-04fe9041a89c][Visual Sensory System]]
+- [[id:ba7edc80-55b9-49aa-9f3c-f6e2db8eccf1][Hearing]]
+- [[id:444b1af1-d842-4103-a134-33e2e42b829d][Touch]]
+- [[id:2899cb7f-51c6-4338-92fb-e2b31c80c3d1][Kinesthetic Sense]]

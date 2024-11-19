@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       2899cb7f-51c6-4338-92fb-e2b31c80c3d1
+:ANKI_DECK: Main
+:END:
+#+title: Kinesthetic Sense
+#+filetags: :Psychology:
+
+* Kinesthetic Sense
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1731953978730
+:END:
+The body's ability to detect the position and movement of muscles, joints, and limbs. It allows you to know where your body parts are without looking at them.

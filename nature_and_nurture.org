@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       c06510f7-1326-4a5e-93ec-0a999b8e06d5
+:END:
+#+title: Nature and Nurture
+#+filetags: :Psychology:
+
+* Nature (Heredity) :Psychology:
+:PROPERTIES:
+:ID:       926f5e07-b6be-40e7-a3f5-8df4af5b59cd
+:ROAM_ALIASES: Heredity
+:END:
+
+Nature (Heredity) refers to the [[id:7b6cf7b4-13a5-418a-b443-c5031907aadc][DNA]] passed down from parents.
+
+* Nurture :Psychology:
+:PROPERTIES:
+:ID:       37935fcd-349a-49c1-bf1d-b05254a36823
+:END:
+
+Nurture (Environment) refers to the experiences.
+
+* Interaction
+- Genes set the stage but the environment help determine the outcome.
+- The predisposition can change the environment is sought.

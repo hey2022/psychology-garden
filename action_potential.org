@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4b003e90-5cbf-4258-8e87-9ee748aaea94
+:END:
+#+title: Action Potential
+#+filetags: :Biology:Psychology:
+
+Action potential are electrical signals that travel through neurons before being converted to chemical signals.

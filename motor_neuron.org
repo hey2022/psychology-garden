@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ae1969c8-b13c-4931-8381-f299967f90d8
+:END:
+#+title: Motor Neuron
+#+filetags: :Biology:Psychology:
+
+Motor [[id:a2f67695-4209-473f-9d1d-9b80daae3d51][neurons]] communicate information from the brain to tissues and organs to allow for movement.

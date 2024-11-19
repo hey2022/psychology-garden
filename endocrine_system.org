@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       4ccc968c-08b3-4e0e-b1fd-4275aa507d4b
+:ANKI_DECK: Main
+:END:
+#+title: Endocrine System
+#+filetags: :Psychology:
+
+* Endocrine System
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729413863850
+:END:
+A slower communication system that uses [[id:1f117033-24c7-4d62-b84a-098ee32ea288][hormones]] instead of [[id:d93a2efb-7268-421c-843d-99dd45051921][neurotransmitters]].

@@ -1,0 +1,186 @@
+:PROPERTIES:
+:ID:       28d5a480-b569-49d4-bed3-76ddfc30155b
+:ANKI_DECK: Main
+:END:
+#+title: Brain
+#+filetags: :Psychology:
+
+The outer layers of the brain handles more complex thinking, while the inner the brain is responsible for basic functions.
+
+* Cerebral Cortex
+:PROPERTIES:
+:ID:       abe56ac7-81a3-41db-b792-1a98734b0c24
+:END:
+[[attachment:_20241020_230204screenshot.png]]
+** Cerebral Cortex
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729437677214
+:END:
+The brain’s outermost layer, responsible for higher-level thinking and complex tasks.
+** Frontal Lobe
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       a3022757-730f-409a-ae9e-a5e891c795dc
+:ANKI_NOTE_ID: 1729437266385
+:END:
+Responsible for higher-order thinking, decision-making, and executive functioning.
+** Motor Cortex
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       1acb91e4-41b9-48b2-9d87-e619ad93b0d2
+:ANKI_NOTE_ID: 1729437266486
+:END:
+Controls muscle movement.
+** Parietal Lobe
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       f8f74101-5583-4c16-a19d-ef6d2c1af8a0
+:ANKI_NOTE_ID: 1729437266562
+:END:
+Responsible for processing sensory information like touch
+** Somatosensory Cortex
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       e89be566-a556-41af-b1c5-797ee9a4aa8d
+:ANKI_NOTE_ID: 1729437266637
+:END:
+Helps you feel textures and temperatures.
+** Occipital Lobe
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       11cad043-ff97-4faf-8c71-d4418730c104
+:ANKI_NOTE_ID: 1729437266789
+:END:
+Specialises in visual processing, everything you see is handled here
+** Temporal Lobe
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       3c8b64c7-8d4d-4764-b914-bc1629aca396
+:ANKI_NOTE_ID: 1729437266939
+:END:
+These lobes process auditory information and handle language comprehension.
+
+** Language skills are typically located in the {{c1::left hemisphere}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_ID: 1729437267114
+:END:
+** The {{c1::right hemisphere}} often handles spatial tasks
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_ID: 1729465882809
+:END:
+** Broca’s Area
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729437267360
+:ID:       66841cd7-cc57-435c-a99c-9fcfc48f6cb6
+:END:
+Responsible for speech production. Damage here makes it difficult to speak.
+** Wernicke’s Area
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729437267487
+:ID:       ab5229ba-0cbd-410a-b946-a706575781fa
+:END:
+Responsible for speech comprehension. Damage here can cause [[id:d26a39d8-41f7-449c-88ac-7509350bf1de][aphasia]], making it hard to understand language.
+* Cerebellum
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       c5915aa8-2e49-4a07-afab-9e1957833c48
+:ANKI_NOTE_ID: 1729466565294
+:END:
+Responsible for coordination and learning.
+- The part of your brain that lets you ride a bike or type without thinking about every movement.
+- Important for motor learning—the more you practice, the better your cerebellum becomes at coordinating movements.
+* Brain Stem
+:PROPERTIES:
+:ID:       07b39f65-329a-49a0-a927-4dec3ee6857b
+:END:
+** Brain Stem
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729466808440
+:END:
+Controls the most basic, life-sustaining functions.
+** Medulla
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729466808540
+:END:
+Manages vital functions like breathing and heart rate—without it, you wouldn’t survive.
+* Brain Plasticity
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729466808615
+:ID:       fda73d30-8229-40db-a876-fddb5f73c688
+:END:
+The ability to rewire itself allows the brain to adapt after injury or damage.
+When one part of the brain is damaged, other areas can sometimes take over its function.
+- It is highest in childhood, but it continues throughout life.
+* Reticular Activating System
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       814a3aac-396c-4a57-8dc4-1896cc652e4a
+:ANKI_NOTE_ID: 1729467194645
+:END:
+Controls sleep/wake cycles, alertness, and voluntary movements.
+* The {{c1::corpus callosum}} connects the two hemispheres.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_ID: 1729924271366
+:END:
+* Brain’s Reward Center
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729467194794
+:ID:       22a1e43d-7baa-482c-a025-02dd3f484190
+:END:
+This region drives pleasure and motivation, releasing dopamine when you experience something rewarding.
+* Limbic System
+:PROPERTIES:
+:ID:       b2b7b142-333f-4659-9c91-c1dbd5f066aa
+:END:
+** Limbic System
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729482771721
+:END:
+The inner part of the brain that controls the emotions and memories.
+** Thalamus
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729482725447
+:END:
+The brain’s “relay station,” it sends sensory information to the right areas of the brain for processing.
+- Smell does not go though the ...
+** Hypothalamus
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       87127403-8f41-4ee2-9238-f769a696ebb2
+:ANKI_NOTE_ID: 1729482725544
+:END:
+Regulates basic drives like hunger, thirst, and body temperature—keeping you in balance. [[id:d54523bc-24f5-4951-b562-42220f01316b][Homeostasis]].
+** Pituitary Gland
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       c48dd9b1-fe2c-485e-91a8-e41b45e1cec0
+:ANKI_NOTE_ID: 1729482725619
+:END:
+The brain’s master gland, it releases hormones that regulate growth and other essential processes.
+** Hippocampus
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       1255837a-3445-4dc3-9e83-2fd2c9bf58e9
+:ANKI_NOTE_ID: 1729482725693
+:END:
+Plays a major role in forming new memories.
+** Amygdala
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       997f6458-999a-4262-8316-c6c798f71030
+:ANKI_NOTE_ID: 1729482725868
+:END:
+Processes emotions, especially fear and aggression.
+It’s the reason why your heart races when you’re scared.

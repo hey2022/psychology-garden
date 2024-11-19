@@ -1,0 +1,93 @@
+:PROPERTIES:
+:ID:       165d8a94-caa7-44f1-8b29-32216e747b0c
+:ANKI_DECK: Main
+:END:
+#+title: Psychoactive Drugs
+#+filetags: :Psychology:
+
+* Psychoactive Drugs
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729417467470
+:END:
+Substances that affect [[id:28d5a480-b569-49d4-bed3-76ddfc30155b][brain]] activity and lead to changes in perception, mood, or consciousness.
+* Agnostics
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       4305f34c-4e18-468d-bef0-9cc9f835810b
+:ANKI_NOTE_ID: 1729417880419
+:END:
+Drugs that mimic [[id:d93a2efb-7268-421c-843d-99dd45051921][neurotransmitters]] or enhance their action.
+- [[id:475409ab-49ef-46d3-a08d-f758bd65bf1e][Heroin]] - [[id:4cae89a9-3344-4768-b815-76db226de9bf][endorphins]]
+
+* Antagonists
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729417880545
+:ID:       e9419f29-ae6a-45d9-92c2-ba8880208aec
+:END:
+Drugs that block [[id:d93a2efb-7268-421c-843d-99dd45051921][neurotransmitter]] activity.
+- Some antipsychotics block [[id:8afe948f-28f7-4828-9b12-1c9efb892c18][dopamine]] receptors to reduce hallucinations.
+
+* Reuptake Inhibitors
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       6463d008-f61b-489f-a279-72d288568431
+:ANKI_NOTE_ID: 1729418543672
+:END:
+Drugs that prevent the reabsorption of [[id:d93a2efb-7268-421c-843d-99dd45051921][neurotransmitters]], increasing their activity.
+- Cocaine blocks dopamine ..., causing an intense "high."
+
+* Stimulants
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       6dfeffa7-97b8-48f2-ba71-222d463b0ee2
+:ANKI_NOTE_ID: 1729418543746
+:END:
+Speed up body functions and enhance energy.
+- Caffeine, Cocaine, Methamphetamines, Ecstasy: Boost dopamine, norepinephrine, and serotonin levels, creating heightened alertness and energy.
+
+* Depressants
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       ec7efec6-6d17-4d9d-8dd7-177655055419
+:ANKI_NOTE_ID: 1729418543921
+:END:
+Slow down body functions and neural activity.
+- Alcohol, Barbiturates: Enhance [[id:e2244a70-dfab-4b55-9071-d07f1e7b0f86][GABA]], reducing anxiety but impairing motor skills.
+* Hallucinogens
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       470add74-3b47-4e8c-ad82-23617f2306fb
+:ANKI_NOTE_ID: 1729418544021
+:END:
+Alter perception and can cause visual or auditory hallucinations.
+- LSD, Marijuana: Affect [[id:cb1a943c-d476-4c67-b1bc-41a67683d8c8][serotonin]] or endocannabinoid systems, leading to distorted reality or mood shifts.
+
+* Tolerance, Addiction, and Withdrawal
+:PROPERTIES:
+:ID:       233b2962-f5d4-41b6-a046-7b80c71a3a9b
+:END:
+** Tolerance
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729419060370
+:END:
+The need to take more of a drug to achieve the same effect.
+- Your brain adapts to the drug's effects over time, reducing its impact.
+
+** Addiction
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729419060445
+:END:
+A compulsive craving for a substance despite harmful consequences.
+- Linked to changes in the brain’s reward system, particularly with dopamine.
+
+** Withdrawl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1729419060519
+:END:
+Physical and psychological symptoms when stopping the drug.
+- Symptoms include anxiety, nausea, tremors, or intense cravings, depending on the drug.
