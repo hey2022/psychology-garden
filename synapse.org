@@ -2,6 +2,6 @@
 :ID:       2d18efd7-8bcc-42f3-a6d3-5f5289345292
 :END:
 #+title: Synapse
-#+filetags: :Biology:Psychology:
+#+filetags: :Psychology:
 
 The synapse the gap between neurons responsible for communication.

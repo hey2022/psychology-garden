@@ -2,7 +2,7 @@
 :ID:       2d662f43-3b8a-4ab4-af36-ee397d201217
 :END:
 #+title: Glial Cells
-#+filetags: :Psychology:Biology:
+#+filetags: :Psychology:
 
 Glial Cells are the brains support staff.
 

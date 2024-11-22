@@ -2,7 +2,7 @@
 :ID:       b2a579af-e22a-4eef-a416-ca40f81bebf9
 :END:
 #+title: Interneuron
-#+filetags: :Psychology:Biology:
+#+filetags: :Psychology:
 
 Interneurons make up the majority of [[id:a2f67695-4209-473f-9d1d-9b80daae3d51][neurons]] in the body.
 It is responsible for transmitting information between [[id:73ce06d8-eb79-4fc3-9d04-32deb178aef4][sensory]] and [[id:ae1969c8-b13c-4931-8381-f299967f90d8][motor]] neurons.

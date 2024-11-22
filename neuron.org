@@ -2,7 +2,7 @@
 :ID:       a2f67695-4209-473f-9d1d-9b80daae3d51
 :END:
 #+title: Neuron
-#+filetags: :Biology:Psychology:
+#+filetags: :Psychology:
 
 Neurons are communication lines of the brain. It transmits signals that control everything from movement to complex thought.
 Every time you think, move, or feel something, neurons are at work.
