@@ -54,7 +54,7 @@ Difficulty falling or staying asleep, leading to fatigue and impaired functionin
 :ANKI_NOTE_ID: 1730430827963
 :ID:       02a6c22a-f870-48b6-be6f-637ae4e618f7
 :END:
-Sudden and uncontrollable "sleep attacks," often directly into REM sleep.
+The inability to regulate sleep wake cycles resulting in sudden and uncontrollable "sleep attacks," often directly into REM sleep.
 ** Hypnagogic Sensations and Hallucinations
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
@@ -84,3 +84,11 @@ Breathing repeatedly stops and starts, disrupting sleep and causing excessive da
 :ROAM_ALIASES: "Sleep Walking"
 :END:
 Typically occurs during deep NREM sleep, where individuals walk or perform tasks while still asleep.
+** Sleep Terror (Night Terror)
+:PROPERTIES:
+:ID:       6a3e23da-a8d9-43f1-8703-b70acf9dd3da
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ROAM_ALIASES: "Night Terror"
+:ANKI_NOTE_ID: 1732252843400
+:END:
+A sleep disorder characterized by repeated episodes of abrupt awakening from NREM sleep accompanied by signs of disorientation, extreme panic, and intense anxiety.
