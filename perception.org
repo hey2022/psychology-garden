@@ -1,0 +1,86 @@
+:PROPERTIES:
+:ID:       bc5d8931-d9a1-4378-81c7-64f942bc20dd
+:ANKI_DECK: Main
+:END:
+#+title: Perception
+#+filetags: :Psychology:
+
+* Perception
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1732507434446
+:END:
+The process of organizing and interpreting [[id:068d94e5-f02d-4ba0-8f62-ef19a44bbf8c][sensory information]], allowing us to recognize meaningful objects and events.
+* Bottom-Up Processing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       253f85e2-9931-4abe-b965-ea1cc26cea65
+:ANKI_NOTE_ID: 1732507434596
+:END:
+Begins with [[id:068d94e5-f02d-4ba0-8f62-ef19a44bbf8c][sensory input]], building perception from the smallest pieces of sensory information (like a puzzle).
+* Top-Down Processing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       34b061c5-4468-414a-804e-5ccbec959cfb
+:ANKI_NOTE_ID: 1732507434746
+:END:
+Uses prior knowledge, expectations, and experiences to interpret [[id:068d94e5-f02d-4ba0-8f62-ef19a44bbf8c][sensory information]].
+* Factors of Perception
+** Internal Factors
+*** Schemas
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       6878f624-50aa-4537-bad0-7277a1edbc88
+:ANKI_NOTE_ID: 1732508144870
+:END:
+Mental frameworks that help organize and interpret information.
+
+Example:
+- People have a strong schema for faces, making it easier to recognize familiar human faces in the world around us. It also means that when we look at an ambiguous image, we are more likely to see it as a face than some other type of object.
+*** Perceptual Set
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       9814ad61-4187-416c-857f-b84c3fc9120d
+:ANKI_NOTE_ID: 1732508145022
+:END:
+A readiness to perceive things a certain way, based on expectations, emotions, or cultural background.
+
+Example:
+- If you expect something to be scary, you may perceive neutral situations as more frightening.
+** External Factors
+*** Context
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       23649806-ada4-43c1-a573-7c1da1d031cc
+:ANKI_NOTE_ID: 1732508817147
+:END:
+The surroundings or circumstances can change perception.
+
+Example:
+- A figure seen in low light may seem more threatening than in bright daylight.
+*** Culture
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ID:       c34fd90d-5a3b-429f-bc62-3aaae5d50db8
+:ANKI_NOTE_ID: 1732508817466
+:END:
+Influences what we notice and value, impacting perception.
+
+Example:
+- Some cultures are more detail-oriented, others are more holistic.
+
+* Perceptual Principle
+:PROPERTIES:
+:ID:       80887305-79dc-4a52-bb50-7ba05b9eceb3
+:ROAM_ALIASES: "Gestalt Psychology"
+:END:
+* Perceptual Principles (Gestalt Psychology)
+Focuses on how people naturally organize sensory information into meaningful wholes.
+** Figure and Ground
+Distinguishing an object (figure) from its background (ground).
+** Grouping Principles
+Organizing stimuli into coherent groups:
+- Proximity: We group nearby objects together.
+- Similarity: We group similar-looking items.
+- Closure: We fill in gaps to see a complete object.
+* Attention
