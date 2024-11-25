@@ -86,3 +86,4 @@ The random assignment of experimental units to treatments is carried out separat
 :ID:       4725fc8e-8d38-4da7-b65a-3e78f6f76ee5
 :END:
 When the observed results of a study are too unusual to be explained by chance alone.
+When the probability of the result occurring by chance is less than 5%.
